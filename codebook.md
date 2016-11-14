@@ -1,7 +1,8 @@
 DATA DICTIONARY - MEANS
 
-Key 
-    Subject - Activity pair
+Subject
+
+Activity
     
 All columns below contain the average of the named measurement. At the bottom of this
 codebook is an excerpt from the UCI HAR codebook that describes how each of these variables were collected.
